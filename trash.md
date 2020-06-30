@@ -1,4 +1,4 @@
 ![](were.jpg)
 
-[siblings](sugarcereal.xyz/siblings)
-[the cow](sugarcereal.xyz/thecow)
+[siblings](http://sugarcereal.xyz/siblings)
+[the cow](http://sugarcereal.xyz/thecow)
