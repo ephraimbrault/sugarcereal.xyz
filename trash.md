@@ -1,4 +1,4 @@
 ![](were.jpg)
 
-[siblings](/siblings)
-[the cow](/thecow)
+[siblings](sugarcereal.xyz/siblings)
+[the cow](sugarcereal.xyz/thecow)
